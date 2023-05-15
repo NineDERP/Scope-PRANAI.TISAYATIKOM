@@ -1,4 +1,4 @@
-DEPS=Nine
+DEPS= Nine
 compile: main.c 
 	 gcc main.c -o $(DEPS)
 
